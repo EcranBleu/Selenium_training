@@ -1,2 +1,2 @@
-# Selenium_training
+# Selenium training
 A short Selenium test.
